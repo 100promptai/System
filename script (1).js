@@ -65,4 +65,3 @@ window.addEventListener('mousemove', (e) => {
     liquidStage.style.transform = `translate3d(${-x}px, ${-y}px, 0)`;
   }
 });
-
